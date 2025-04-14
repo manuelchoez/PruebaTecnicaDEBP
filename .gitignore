@@ -1,0 +1,10 @@
+gitignore_content = """
+venv/
+.env
+*.env
+
+*.pyc
+__pycache__/
+
+data/output/
+"""
